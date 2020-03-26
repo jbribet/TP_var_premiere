@@ -9,4 +9,4 @@ TP3 :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbribet/TP_var_premiere/master?filepath=TP3p317.ipynb)
 
 TP3 modifié :
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbribet/TP_var_premiere/master?filepath=TP3p317_modif.ipynb)
